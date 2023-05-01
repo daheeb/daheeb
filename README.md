@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daheeb&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **daheeb/daheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
